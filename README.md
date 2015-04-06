@@ -8,3 +8,9 @@ a hacer commits.
 
 Vamos a borrar una parte del texto y a agregar otra, para ver como se ven los cambios
 reflejados en el diff.
+
+**Vamos a agregar un poco más de texto:**
+- one
+- two
+- three
+
